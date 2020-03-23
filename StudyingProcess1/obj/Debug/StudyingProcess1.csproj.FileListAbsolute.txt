@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\bin\Debug\StudyingProcess1.exe.config
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\bin\Debug\StudyingProcess1.exe
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\bin\Debug\StudyingProcess1.pdb
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\obj\Debug\StudyingProcess1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\obj\Debug\StudyingProcess1.exe
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\obj\Debug\StudyingProcess1.pdb
+C:\Homework9\lesson9-homework\StudyingProcess1\bin\Debug\StudyingProcess1.exe.config
+C:\Homework9\lesson9-homework\StudyingProcess1\bin\Debug\StudyingProcess1.exe
+C:\Homework9\lesson9-homework\StudyingProcess1\bin\Debug\StudyingProcess1.pdb
+C:\Homework9\lesson9-homework\StudyingProcess1\obj\Debug\StudyingProcess1.csprojAssemblyReference.cache
+C:\Homework9\lesson9-homework\StudyingProcess1\obj\Debug\StudyingProcess1.exe
+C:\Homework9\lesson9-homework\StudyingProcess1\obj\Debug\StudyingProcess1.pdb
